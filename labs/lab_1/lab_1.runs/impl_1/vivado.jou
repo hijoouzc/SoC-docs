@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:35:27 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Thu Sep 25 13:57:23 2025
+# Process ID         : 7880
+# Current directory  : E:/EDABK/Workspace/lab/lab_1/lab_1.runs/impl_1
+# Command line       : vivado.exe -log system_wrapper.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source system_wrapper.tcl -notrace
+# Log file           : E:/EDABK/Workspace/lab/lab_1/lab_1.runs/impl_1/system_wrapper.vdi
+# Journal file       : E:/EDABK/Workspace/lab/lab_1/lab_1.runs/impl_1\vivado.jou
+# Running On         : DESKTOP-VCMUIFF
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26100
+# Processor Detail   : 12th Gen Intel(R) Core(TM) i5-12450H
+# CPU Frequency      : 2496 MHz
+# CPU Physical cores : 8
+# CPU Logical cores  : 12
+# Host memory        : 16886 MB
+# Swap memory        : 15032 MB
+# Total Virtual      : 31919 MB
+# Available Virtual  : 10914 MB
+#-----------------------------------------------------------
+source system_wrapper.tcl -notrace
