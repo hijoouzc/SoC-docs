@@ -1,0 +1,9 @@
+10:45:39 DEBUG : Logs will be stored at 'E:/EDABK/Workspace/lab1/IDE.log'.
+10:45:43 INFO  : Registering command handlers for Vitis TCF services
+10:45:43 INFO  : Launching XSCT server: xsct.bat -n  -interactive E:\EDABK\Workspace\lab1\temp_xsdb_launch_script.tcl
+10:45:44 INFO  : Platform repository initialization has completed.
+10:45:45 INFO  : XSCT server has started successfully.
+10:45:46 INFO  : Successfully done setting XSCT server connection channel  
+10:45:46 INFO  : plnx-install-location is set to ''
+10:45:46 INFO  : Successfully done query RDI_DATADIR 
+10:45:46 INFO  : Successfully done setting workspace for the tool. 

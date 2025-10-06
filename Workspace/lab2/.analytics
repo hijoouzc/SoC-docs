@@ -1,0 +1,23 @@
+timestamp=[2025-10-01 11:25:57], mode=WORKBENCH_START, duration=0:00:05.203, duration_ms=5203, data={}
+timestamp=[2025-10-01 11:25:57], mode=WORKBENCH_UI_INIT, duration=0:00:00.007, duration_ms=7, data={editors_count=0, platform_editors_count=0, projects_count=0, platform_projects_count=0, active_platform_editor=false, projects=}
+timestamp=[2025-10-01 11:25:58], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.459, duration_ms=459, data={}
+timestamp=[2025-10-01 11:27:47], mode=PLATFORM_CREATION, duration=0:00:09.025, duration_ms=9025, data={platform_source=dsa, os=standalone, processor=ps7_cortexa9, platform=null}
+timestamp=[2025-10-01 11:28:46], mode=APP_CREATION, duration=0:00:04.656, duration_ms=4656, data={name=lab2, project_type=sdk, os=standalone, processor=cortex-a9, runtime=C/C++, platform=lab2_platform, application_type=application}
+timestamp=[2025-10-01 11:30:35], mode=PLATFORM_GENERATION, duration=0:00:12.843, duration_ms=12843, data={name=lab2_platform}
+timestamp=[2025-10-01 11:30:36], mode=BUILD, duration=0:00:01.289, duration_ms=1289, data={name=lab2, configuration=Debug, clean_build=false}
+timestamp=[2025-10-01 11:30:42], mode=BUILD, duration=0:00:05.447, duration_ms=5447, data={name=lab2_system, configuration=Debug, clean_build=false}
+timestamp=[2025-10-01 11:35:34], mode=WORKBENCH_START, duration=0:00:05.559, duration_ms=5559, data={}
+timestamp=[2025-10-01 11:35:34], mode=WORKBENCH_UI_INIT, duration=0:00:00.124, duration_ms=124, data={editors_count=4, platform_editors_count=1, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,lab2,lab2_platform,lab2_system}
+timestamp=[2025-10-01 11:35:35], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.181, duration_ms=181, data={}
+timestamp=[2025-10-01 11:35:59], mode=PLATFORM_GENERATION, duration=0:00:05.115, duration_ms=5115, data={name=lab2_platform}
+timestamp=[2025-10-01 11:35:59], mode=BUILD, duration=0:00:00.204, duration_ms=204, data={name=lab2, configuration=Debug, clean_build=true}
+timestamp=[2025-10-01 11:35:59], mode=BUILD, duration=0:00:00.127, duration_ms=127, data={name=lab2_system, configuration=Debug, clean_build=true}
+timestamp=[2025-10-01 11:36:20], mode=PLATFORM_GENERATION, duration=0:00:09.861, duration_ms=9861, data={name=lab2_platform}
+timestamp=[2025-10-01 11:36:23], mode=BUILD, duration=0:00:01.139, duration_ms=1139, data={name=lab2, configuration=Debug, clean_build=false}
+timestamp=[2025-10-01 11:36:28], mode=BUILD, duration=0:00:04.310, duration_ms=4310, data={name=lab2_system, configuration=Debug, clean_build=false}
+timestamp=[2025-10-02 10:40:03], mode=WORKBENCH_START, duration=0:00:08.768, duration_ms=8768, data={}
+timestamp=[2025-10-02 10:40:04], mode=WORKBENCH_UI_INIT, duration=0:00:00.533, duration_ms=533, data={editors_count=4, platform_editors_count=1, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,lab2,lab2_platform,lab2_system}
+timestamp=[2025-10-02 10:40:04], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.237, duration_ms=237, data={}
+timestamp=[2025-10-02 10:46:26], mode=WORKBENCH_START, duration=0:00:17.116, duration_ms=17116, data={}
+timestamp=[2025-10-02 10:46:26], mode=WORKBENCH_UI_INIT, duration=0:00:00.131, duration_ms=131, data={editors_count=0, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,lab2,lab2_platform,lab2_system}
+timestamp=[2025-10-02 10:46:27], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.229, duration_ms=229, data={}

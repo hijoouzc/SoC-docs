@@ -1,0 +1,6 @@
+//arch = zynq; split = false; format = BIN
+the_ROM_image:
+{
+	[bootloader]E:\EDABK\Workspace\platform\lab1_platform\export\lab1_platform\sw\boot\fsbl.elf
+	E:\EDABK\Workspace\platform\hello_world\build\hello_world.elf
+}

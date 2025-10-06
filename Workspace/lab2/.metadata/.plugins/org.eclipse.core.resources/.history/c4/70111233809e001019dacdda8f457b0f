@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="lab2" location="E:/EDABK/Workspace/lab2/lab2" platform="E:/EDABK/Workspace/lab2/lab2_platform/export/lab2_platform/lab2_platform.xpfm" platformUID="xilinx:pynq-z2::0.0(custom)" systemProject="lab2_system" sysConfig="lab2_platform" runtime="C/C++" cpu="standalone_domain" cpuInstance="ps7_cortexa9_0" os="standalone" mssSignature="402a67bb0aa8700d2c365c18ab9eaf3a">
+  <configuration name="Debug" id="xilinx.gnu.armv7.exe.debug.1711651021">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.armv7.exe.release.400696531" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="empty_application"/>
+</sdkproject:SdkProject>

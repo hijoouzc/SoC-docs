@@ -1,0 +1,20 @@
+11:36:23 **** Build of configuration Debug for project lab2_system ****
+make all 
+Generating bif file for the system project
+generate_system_bif.bat 57992 E:/EDABK/Workspace/lab2/lab2_platform/export/lab2_platform/lab2_platform.xpfm standalone_domain E:/EDABK/Workspace/lab2/lab2_system/Debug/system.bif
+
+****** Software Commandline Tool (XSCT) v2024.2.0
+  **** SW Build 5239620 on Sun Nov 10 09:56:12 MST 2024
+    ** Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+    ** Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+
+
+Warning: XSCT is deprecated and will be removed in future releases.
+We recommend using the new Python command-line tool for project management and debugging:
+- Run "vitis -i" for interactive mode.
+- Run "vitis -s <script>" for script mode.
+sdcard_gen --xpfm E:/EDABK/Workspace/lab2/lab2_platform/export/lab2_platform/lab2_platform.xpfm --sys_config lab2_platform --bif E:/EDABK/Workspace/lab2/lab2_system/Debug/system.bif --no_bitstream --elf E:/EDABK/Workspace/lab2/lab2/Debug/lab2.elf,ps7_cortexa9_0
+Running E:/Vitis/2024.2/bin/bootgen  -image E:/EDABK/Workspace/lab2/lab2_system/Debug/sd_card_temp/boot.bif -w -o i BOOT.BIN
+
+11:36:28 Build Finished (took 4s.310ms)
+

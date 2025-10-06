@@ -1,0 +1,45 @@
+11:25:54 DEBUG : Logs will be stored at 'E:/EDABK/Workspace/lab2/IDE.log'.
+11:25:57 INFO  : Registering command handlers for Vitis TCF services
+11:25:57 INFO  : Launching XSCT server: xsct.bat -n  -interactive E:\EDABK\Workspace\lab2\temp_xsdb_launch_script.tcl
+11:25:58 INFO  : Platform repository initialization has completed.
+11:26:00 INFO  : XSCT server has started successfully.
+11:26:00 INFO  : Successfully done setting XSCT server connection channel  
+11:26:00 INFO  : plnx-install-location is set to ''
+11:26:00 INFO  : Successfully done setting workspace for the tool. 
+11:26:00 INFO  : Successfully done query RDI_DATADIR 
+11:27:47 INFO  : Result from executing command 'getProjects': lab2_platform
+11:27:47 INFO  : Result from executing command 'getPlatforms': xilinx_zcu102_base_202420_1|E:/Vitis/2024.2/base_platforms/xilinx_zcu102_base_202420_1/xilinx_zcu102_base_202420_1.xpfm;xilinx_zcu102_base_dfx_202420_1|E:/Vitis/2024.2/base_platforms/xilinx_zcu102_base_dfx_202420_1/xilinx_zcu102_base_dfx_202420_1.xpfm;xilinx_zcu104_base_202420_1|E:/Vitis/2024.2/base_platforms/xilinx_zcu104_base_202420_1/xilinx_zcu104_base_202420_1.xpfm
+11:30:35 INFO  : Result from executing command 'getProjects': lab2_platform
+11:30:35 INFO  : Result from executing command 'getPlatforms': lab2_platform|E:/EDABK/Workspace/lab2/lab2_platform/export/lab2_platform/lab2_platform.xpfm;xilinx_zcu102_base_202420_1|E:/Vitis/2024.2/base_platforms/xilinx_zcu102_base_202420_1/xilinx_zcu102_base_202420_1.xpfm;xilinx_zcu102_base_dfx_202420_1|E:/Vitis/2024.2/base_platforms/xilinx_zcu102_base_dfx_202420_1/xilinx_zcu102_base_dfx_202420_1.xpfm;xilinx_zcu104_base_202420_1|E:/Vitis/2024.2/base_platforms/xilinx_zcu104_base_202420_1/xilinx_zcu104_base_202420_1.xpfm
+11:30:35 INFO  : Checking for BSP changes to sync application flags for project 'lab2'...
+11:35:31 DEBUG : Logs will be stored at 'E:/EDABK/Workspace/lab2/IDE.log'.
+11:35:31 INFO  : Launching XSCT server: xsct.bat -n  -interactive E:\EDABK\Workspace\lab2\temp_xsdb_launch_script.tcl
+11:35:34 INFO  : XSCT server has started successfully.
+11:35:34 INFO  : Successfully done setting XSCT server connection channel  
+11:35:34 INFO  : plnx-install-location is set to ''
+11:35:34 INFO  : Successfully done setting workspace for the tool. 
+11:35:34 INFO  : Registering command handlers for Vitis TCF services
+11:35:35 INFO  : Successfully done query RDI_DATADIR 
+11:35:35 INFO  : Platform repository initialization has completed.
+11:35:57 INFO  : Result from executing command 'removePlatformRepo': 
+11:36:20 INFO  : Result from executing command 'getProjects': lab2_platform
+11:36:20 INFO  : Result from executing command 'getPlatforms': xilinx_zcu102_base_202420_1|E:/Vitis/2024.2/base_platforms/xilinx_zcu102_base_202420_1/xilinx_zcu102_base_202420_1.xpfm;xilinx_zcu102_base_dfx_202420_1|E:/Vitis/2024.2/base_platforms/xilinx_zcu102_base_dfx_202420_1/xilinx_zcu102_base_dfx_202420_1.xpfm;xilinx_zcu104_base_202420_1|E:/Vitis/2024.2/base_platforms/xilinx_zcu104_base_202420_1/xilinx_zcu104_base_202420_1.xpfm
+11:36:20 INFO  : Checking for BSP changes to sync application flags for project 'lab2'...
+10:39:59 DEBUG : Logs will be stored at 'E:/EDABK/Workspace/lab2/IDE.log'.
+10:40:00 INFO  : Launching XSCT server: xsct.bat -n  -interactive E:\EDABK\Workspace\lab2\temp_xsdb_launch_script.tcl
+10:40:04 INFO  : Registering command handlers for Vitis TCF services
+10:40:04 INFO  : Platform repository initialization has completed.
+10:40:06 INFO  : XSCT server has started successfully.
+10:40:06 INFO  : plnx-install-location is set to ''
+10:40:17 INFO  : Successfully done setting XSCT server connection channel  
+10:40:17 INFO  : Successfully done query RDI_DATADIR 
+10:40:17 INFO  : Successfully done setting workspace for the tool. 
+10:46:15 DEBUG : Logs will be stored at 'E:/EDABK/Workspace/lab2/IDE.log'.
+10:46:16 INFO  : Launching XSCT server: xsct.bat -n  -interactive E:\EDABK\Workspace\lab2\temp_xsdb_launch_script.tcl
+10:46:20 INFO  : XSCT server has started successfully.
+10:46:20 INFO  : plnx-install-location is set to ''
+10:46:20 INFO  : Successfully done setting XSCT server connection channel  
+10:46:21 INFO  : Successfully done setting workspace for the tool. 
+10:46:27 INFO  : Registering command handlers for Vitis TCF services
+10:46:27 INFO  : Successfully done query RDI_DATADIR 
+10:46:27 INFO  : Platform repository initialization has completed.
